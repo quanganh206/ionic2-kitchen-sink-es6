@@ -1,0 +1,23 @@
+<!--
+  Generated template for the SettingsPage page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-navbar *navbar>
+  <ion-title>{{"pages.settings" | translate}}</ion-title>
+</ion-navbar>
+
+<ion-content class="settings">
+  <ion-list>
+    <ion-item>
+      <ion-label>{{"settings.language" | translate}}</ion-label>
+      <ion-icon name="ios-globe" item-left></ion-icon>
+      <ion-select [(ngModel)]="language" (change)="onChange()">
+        <ion-option value="de">{{"settings.germany" | translate}}</ion-option>
+        <ion-option value="en">{{"settings.english" | translate}}</ion-option>
+        <ion-option value="fr">{{"settings.france" | translate}}</ion-option>
+      </ion-select>
+    </ion-item>
+  </ion-list>
+</ion-content>

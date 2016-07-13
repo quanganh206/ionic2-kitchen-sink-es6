@@ -1,0 +1,35 @@
+{
+    "menu" : {
+        "home": "Ionic2 Kitchen Sink",
+        "intro": "Intro Slides",
+        "list": "My First List",
+        "login": "Login",
+        "register": "Register",
+        "settings": "Settings"
+    },
+    "pages": {
+        "home": "Ionic2 Kitchen Sink TS",
+        "intro": "Intro",
+        "list": "List",
+        "item-details": "Item Details",
+        "login": "Login",
+        "register": "Register",
+        "settings": "Settings"
+    },
+    "home": {
+        "welcome": "Welcome to Ionic2 Kitchen Sink",
+        "introline1": "This starter project is a way of helping developer get a functional app running in record time and save 2 weeks of development.",
+        "introline2": "Any issues please email direct to ",
+        "toggle": "Toggle Menu"
+    },
+    "settings": {
+        "language": "Language",
+        "germany": "Germany",
+        "english": "English",
+        "france": "France"
+    },   
+    "segment": {    
+        "puppies": "Puppies",
+        "kittens": "Kittens"
+    }
+}

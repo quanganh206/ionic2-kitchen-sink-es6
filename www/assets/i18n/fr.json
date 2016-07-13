@@ -1,0 +1,35 @@
+{
+    "menu" : {
+        "home": "Ionic2 Kitchen Sink",
+        "intro": "Présentation Diapositives",
+        "list": "My First List",
+        "login": "Connexion",
+        "register": "Registre",
+        "settings": "Paramètres"
+    },
+    "pages": {
+        "home": "Ionic2 Kitchen Sink TS",
+        "intro": "Présentation",
+        "list": "Liste",
+        "item-details": "Détails de l'article",
+        "login": "Connexion",
+        "register": "Registre",
+        "settings": "Paramètres"
+    },
+    "home": {
+        "welcome": "Bienvenue à Ionic2 Kitchen Sink",
+        "introline1": "Ce projet de démarrage est une façon d'aider les développeurs obtenir une application fonctionnelle en cours d'exécution en un temps record et d'économiser 2 semaines de développement.",
+        "introline2": "Toutes les questions s'il vous plaît envoyer un courriel directement à ",
+        "toggle": "Menu Toggle"
+    },
+    "settings": {
+        "language": "La langue",
+        "germany": "Allemagne",
+        "english": "Anglais",
+        "france": "France"
+    },   
+    "segment": {    
+        "puppies": "Puppies",
+        "kittens": "Kittens"
+    }
+}
