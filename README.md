@@ -1,5 +1,5 @@
 # ionic2-kitchen-sink-es6
-## Welcome to Ionic2 Kitchen Sink
+## Welcome to Ionic2 Kitchen Sink (ES6)
 
 This starter project is a way of helping developer get a functional app running in record time and save 2 weeks of development.
 
